@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class Aula24 {
+
+	public static void main(Strig[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		String x;
+		x = sc.next();
+		System.out.println("Voce digitou: "+ x);
+		
+	}
+}
